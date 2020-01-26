@@ -17,7 +17,7 @@ import time
 #This is a library made by critcore
 #reddit username: bobafex (because reddit won't let me change name to critcore, oof)
 #made with a lot of forum surfing.
-#to see the people who made this library possible jsut scroll through the code
+#to see the people who made this library possible just scroll through the code
 #and look at the comments.
 #discord: critcore#8395
 ###################################
