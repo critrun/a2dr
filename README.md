@@ -43,7 +43,7 @@ to your edit  to my discord.    
 
 ___________________________________________________________________________________________    
 
-A2DR contains 19 neat commands, ~450 lines of code and all this for free, for your pleasure.    
+A2DR contains 18 neat commands, ~400 lines of code and all this for free, for your pleasure.    
 
 However free comes with the cost that I can’t guarantee it will work for you. 
 
