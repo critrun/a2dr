@@ -14,7 +14,8 @@ Copy paste this into cmd to install library needed:
 ```
 python -m pip install --upgrade pip --user
 
-pip install pillow --user
+python -m pip install pillow --user
+
 ```
 
 ___________________________________________________________________________________________
