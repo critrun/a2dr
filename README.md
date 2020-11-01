@@ -22,7 +22,7 @@ ________________________________________________________________________________
    
 If you have any ideas upon further improvement contact me via discord.
 
-Discord tag:  **critcore#8395**
+Discord tag:  **crit#6969**
 
 ___________________________________________________________________________________________ 
 
